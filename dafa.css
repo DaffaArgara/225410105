@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+#profil {
+    margin-top: 20px;
+}
+
+#profil img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+#profil h2 {
+    color: #333;
+}
+
+#profil p {
+    margin: 5px 0;
+}
